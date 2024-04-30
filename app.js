@@ -100,3 +100,18 @@ const h3 = document.querySelector(`.h2second`)
 // Answer No 6
 
 
+
+
+
+
+
+
+
+
+
+// // Answer No 7
+
+// const para = `Ali and sami are bestfreind.They Play Cricket Together all the time and also they study together`
+// console.log(para.replace(`and` , `&`));
+
+// // Answer No 7

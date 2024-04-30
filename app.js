@@ -108,10 +108,45 @@ const h3 = document.querySelector(`.h2second`)
 
 
 
+// // Answer No 7
+
+// const para = `Hyderabad`
+// h2.innerHTML = `Message: ${para}`
+// h3.innerHTML = `After Replacement: ${para.replaceAll(`Hyder` , `Islam`)}`
+// console.log(`Message: ${para}`);
+// console.log(`After Replacement: ${para.replaceAll(`Hyder` , `Islam`)}`);
+
 
 // // Answer No 7
 
-// const para = `Ali and sami are bestfreind.They Play Cricket Together all the time and also they study together`
-// console.log(para.replace(`and` , `&`));
 
-// // Answer No 7
+
+
+
+
+
+
+
+
+// // Answer No 8
+
+// const para = `Ali and sami are bestfreind and They Play Cricket Together all the time and also they study together`
+// h2.innerHTML = `Message: ${para}`
+// h3.innerHTML = `After Replacement: ${para.replaceAll(`and` , `&`)}`
+// console.log(`Message: ${para}`);
+// console.log(`After Replacement: ${para.replaceAll(`and` , `&`)}`);
+
+// // Answer No 8
+
+
+
+
+
+
+
+
+
+// Answer No 9 
+
+
+// Answer No 9 

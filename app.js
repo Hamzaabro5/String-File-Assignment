@@ -262,3 +262,18 @@ const h4 = document.querySelector(`.h2third`)
 // // console.log(y);
 
 // // Answer No 16
+
+
+
+
+
+
+
+
+
+
+
+
+// Answer No 20
+
+// Answer No 20

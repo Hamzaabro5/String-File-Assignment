@@ -1,6 +1,7 @@
 // console.log(`Hello String`);
 const h2 = document.querySelector(`h2`)
 const h3 = document.querySelector(`.h2second`)
+const h4 = document.querySelector(`.h2third`)
 
 
 
@@ -196,3 +197,68 @@ const h3 = document.querySelector(`.h2second`)
 // h3.innerHTML = `Lower Case: ${getInput.toLowerCase()}`
 
 // // Answer No 12
+
+
+
+
+
+
+
+
+
+// // Answer No 14
+
+// var num = 23.44
+// const val = num.toLocaleString();
+// h2.innerHTML = `Number: ${num} Type: ${typeof(num)}`
+// h3.innerHTML = `Result: ${val} Type: ${typeof(val)}`
+// console.log(val);
+// console.log(typeof(val))
+
+// // Answer No 14
+
+
+
+
+
+
+
+
+
+
+// // Answer No 15
+
+// const a = +prompt(`Write Down First Number?`)
+// const b = +prompt(`Write Down Second Number?`)
+// const x = a+b
+
+
+// h2.innerHTML = `a is ${a}`
+// h3.innerHTML = `b is ${b}`
+// h4.innerHTML = `a+b is ${x}`
+// // console.log(x);
+
+// // Answer No 15
+
+
+
+
+
+
+
+
+
+
+// // Answer No 16
+
+// const a = +prompt(`Write Down First Number?`)
+// const b = +prompt(`Write Down Second Number?`)
+// const y = a-b
+
+
+// h2.innerHTML = `a is ${a}`
+// h3.innerHTML = `b is ${b}`
+// h4.innerHTML = `a-b is ${y}`
+// // console.log(y);
+
+// // Answer No 16

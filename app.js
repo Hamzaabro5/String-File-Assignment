@@ -146,7 +146,53 @@ const h3 = document.querySelector(`.h2second`)
 
 
 
-// Answer No 9 
+// // Answer No 10 
+
+// const input = document.querySelector(`input`)
+
+// function getUrl() {
+//     const finalValue = input.value.split(`www.`)
+//     // console.log(input.value.split(`www.`));
+//     // console.log(finalValue);
+//     h2.innerHTML = `URL: ${input.value}`
+//     h3.innerHTML = `Domain: ${finalValue}`
+//     input.value = ``
+// }
+
+// // Answer No 10
 
 
-// Answer No 9 
+
+
+
+
+
+
+
+// // Answer No 11
+
+// const getInput = prompt(`Give a word to convert it to Capital letters`)
+
+// // console.log(getInput.toUpperCase());
+// h2.innerHTML = `User Input: ${getInput}`
+// h3.innerHTML = `Upper Case: ${getInput.toUpperCase()}`
+
+// // Answer No 11
+
+
+
+
+
+
+
+
+
+// // Answer No 12
+
+// const getInput = prompt(`Give a word to convert it to Lower letters`)
+
+// // console.log(getInput.toLowerCase());
+// h2.innerHTML = `User Input: ${getInput.toUpperCase()}`
+// h3.innerHTML = `Lower Case: ${getInput.toLowerCase()}`
+
+// // Answer No 12

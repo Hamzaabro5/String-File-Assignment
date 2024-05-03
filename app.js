@@ -274,6 +274,35 @@ const h4 = document.querySelector(`.h2third`)
 
 
 
-// Answer No 20
+// // Answer No 17
 
-// Answer No 20
+// const input = document.querySelector(`input`)
+
+// function getUser() {
+//     input.value = ``
+
+//     var usernames = input.value
+//     if (usernames === `!`) {
+//         console.log(`Enter Valid Username`);
+//     }else{
+//         console.log(`Welcome`);
+//     }
+// }
+
+
+// INCOMPLETE
+// // Answer No 17
+
+
+
+
+
+
+
+
+
+// Answer No 18
+
+
+
+// Answer No 18

@@ -303,6 +303,19 @@ const h4 = document.querySelector(`.h2third`)
 
 // Answer No 18
 
+const input = document.querySelector(`input`);
 
+const bakery = [`cake` , `apple pie` , `cookie` , `chips` , `patties` , `rusk`];
+
+function getItem() {
+    input.value.toLowerCase();
+    console.log(input.value);
+    if (bakery.includes(input.value)) {
+        console.log(`Availible`);
+    } else {
+        console.log(`Not Availible`);
+    }
+    input.value = ``
+}
 
 // Answer No 18

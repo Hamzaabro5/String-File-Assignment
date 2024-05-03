@@ -301,21 +301,48 @@ const h4 = document.querySelector(`.h2third`)
 
 
 
-// Answer No 18
+// // Answer No 18
 
-const input = document.querySelector(`input`);
+// const input = document.querySelector(`input`);
 
-const bakery = [`cake` , `apple pie` , `cookie` , `chips` , `patties` , `rusk`];
+// const bakery = [`cake` , `apple pie` , `cookie` , `chips` , `patties` , `rusk`];
 
-function getItem() {
-    input.value.toLowerCase();
-    console.log(input.value);
-    if (bakery.includes(input.value)) {
-        console.log(`Availible`);
-    } else {
-        console.log(`Not Availible`);
-    }
-    input.value = ``
-}
+// function getItem() {
+//     console.log(input.value);
+//     if (bakery.includes(input.value)) {
+//         h2.innerHTML = `${input.value} is Availible`
+//         console.log(`Availible`);
+//     } else {
+//         h2.innerHTML = `${input.value} is Not Availible`
+//         console.log(`Not Availible`);
+//     }
+//     input.value = ``
+// }
 
-// Answer No 18
+// // Answer No 18
+
+
+
+
+
+
+
+
+
+// // Answer No 19
+
+// const input1 = document.querySelector(`.input1`)
+// const input2 = document.querySelector(`.input2`)
+
+// function getInput() {
+//     // h2.innerHTML = `${input1.value} is greater than ${input2.value}`
+//     if (input1.value > input2.value) {
+//         // console.log(`bara h`);
+//         h2.innerHTML = `${input1.value} is greater than ${input2.value}`
+//     }else{
+//         h2.innerHTML = `${input1.value} is less to ${input2.value}`
+//     }
+//     input1.value = ``
+//     input2.value = ``
+//     }
+// // Answer No 19

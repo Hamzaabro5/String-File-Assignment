@@ -346,3 +346,33 @@ const h4 = document.querySelector(`.h2third`)
 //     input2.value = ``
 //     }
 // // Answer No 19
+
+
+
+
+
+
+
+
+
+// // Answer No 21
+
+// const university = `University Of Karachi`
+// const uni = university.split([])
+
+// console.log(uni);
+
+// for (let i = 0; i < uni.length; i++) {
+//     h2.innerHTML += `<li>${uni[i]}</li>`
+    
+// }
+
+// // Answer No 21
+
+
+
+
+
+
+
+
